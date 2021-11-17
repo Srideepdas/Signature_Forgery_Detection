@@ -2,7 +2,6 @@
 <b>This Repository contains code for verification of signature</b>
 
 <br/>Tensorflow is used and details of folder is as follows -
-<br/>* axis_bank.ipynb file contains model 
 <br/>* forged and real folders contain dataset for this project in form of real and forged images respectively
 <br/>* training folder will save the trained images
 
