@@ -1,4 +1,4 @@
-# AxisBankAiChallenge
+
 <b>This Repository contains code for verification of signature</b>
 
 <br/>Tensorflow is used and details of folder is as follows -
